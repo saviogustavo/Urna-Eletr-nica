@@ -1,4 +1,4 @@
-# wdev-urna
+# Urna Eletrônica
 
 ## Project setup
 ```
